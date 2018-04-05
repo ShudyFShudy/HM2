@@ -11,3 +11,10 @@
     width: 40px;
     margin: 20px;
 }
+.hmcalcul .inputs-block .input-block {
+    display: inline-block;
+    padding: 10px;
+}
+.hmcalcul .inputs-block .input-block label{
+    display: block;
+}
