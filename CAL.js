@@ -17,3 +17,6 @@ function onButtonDivideClick() {
 }
 
 buttonPlus.addEventListener("click", onButtonPlusClick)
+buttonMinus.addEventListener("click", onButtonMinusClick)
+buttonMultiphy.addEventListener("click", onButtonMultiphyClick)
+buttonDivide.addEventListener("click", onButtonDivideClick)
