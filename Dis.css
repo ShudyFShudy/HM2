@@ -1,0 +1,13 @@
+.hmcalcul{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: aquamarine;
+    padding: 20px;
+    border: 1px solid black;
+}
+.hmcalcul .operations-block button{
+    height: 40px;
+    width: 40px;
+    margin: 20px;
+}
